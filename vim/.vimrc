@@ -5,7 +5,7 @@ set expandtab
 set softtabstop=2
 set shiftwidth=2
 set shiftround
-set relativenumber
+set number
 set autoindent
 filetype indent on
 syntax on
